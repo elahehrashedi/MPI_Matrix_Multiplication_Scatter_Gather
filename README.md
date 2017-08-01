@@ -5,6 +5,7 @@ The basic problem is almost the same as "https://github.com/elahehrashedi/MPI_Ma
 
 (1) Using collective communication routines, such as scatter, gather, and allgather,
 whenever possible.
+
 (2) To measure the execution times and study the scalability of the programs and
 your system.
 
